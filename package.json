@@ -1,0 +1,30 @@
+{
+  "name": "cockroachdb-cloud-regions-country-flags",
+  "version": "1.0.0",
+  "description": "A demo app using Cloud Regions Country Flags and the CockroachDB Cloud API.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/cockroachdb-cloud-regions-country-flags.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/cockroachdb-cloud-regions-country-flags/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/cockroachdb-cloud-regions-country-flags#readme",
+  "dependencies": {
+    "cloud-regions-country-flags": "^0.0.9",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
