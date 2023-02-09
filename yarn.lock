@@ -89,10 +89,10 @@ client-only@0.0.1:
   resolved "https://registry.yarnpkg.com/client-only/-/client-only-0.0.1.tgz#38bba5d403c41ab150bff64a95c85013cf73bca1"
   integrity sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==
 
-cloud-regions-country-flags@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/cloud-regions-country-flags/-/cloud-regions-country-flags-0.0.9.tgz#36371a9bf69b5673025b0bbbad8e1d5578668149"
-  integrity sha512-K9+OUJCsdiTZIwlQ80GRai1DJbef4FBfSwiOmpvhfTpgl3gEETHPHDTkX7jMg//oyhVKNqL2Jii27cpWGnj8Pg==
+cloud-regions-country-flags@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/cloud-regions-country-flags/-/cloud-regions-country-flags-0.0.10.tgz#d2b2afb78e062a3f79b1b08556e524b61cf884e4"
+  integrity sha512-fwrwzXapVt3eJ44Q5nYXoHgO6Al2Q5ycnjA1zMF5rRSaXZuLZdicqUiVqEfjdG0x0IEw87jmRsxvDVSAN3aXmg==
 
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
