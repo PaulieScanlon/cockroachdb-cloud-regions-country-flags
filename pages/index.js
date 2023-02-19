@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { getInfo } from 'cloud-regions-country-flags'
+import { fromProvider } from 'cloud-regions-country-flags'
 
 const Page = ({ status, data }) => {
   if (status === 'error') return <div>Error</div>
@@ -14,7 +14,7 @@ const Page = ({ status, data }) => {
               <dt style={{ margin: '16px 0px 8px 0px' }}>{name}</dt>
               {regions.map((region, index) => {
                 const { name } = region
-                const { flag, location } = getInfo(name, cloud_provider)
+                const { flag, location } = fromProvider(name, cloud_provider)
                 return (
                   <Fragment key={index}>
                     <dd>

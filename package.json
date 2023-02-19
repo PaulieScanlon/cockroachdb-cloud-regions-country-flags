@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/PaulieScanlon/cockroachdb-cloud-regions-country-flags#readme",
   "dependencies": {
-    "cloud-regions-country-flags": "^0.0.13",
+    "cloud-regions-country-flags": "^1.0.0",
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
