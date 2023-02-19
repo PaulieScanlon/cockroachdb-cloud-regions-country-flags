@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.cockroachlabs.com/blog/converting-cloud-provider-regions-into-country-flags/">
-    <img alt="getInfo function to return a location and flag from a cloud provide region code" src="https://www.cockroachlabs.com/img/cloud-regions-country-flags-featured-image.jpg?auto=format,compress&q=30&w=592" />
+    <img alt="getInfo function to return a location and flag from a cloud provide region code" src="https://www.cockroachlabs.com/img/cloud-regions-country-flags-featured-image-50.jpg?auto=format,compress&q=30&w=592" />
   </a>
 </p>
 
